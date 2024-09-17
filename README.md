@@ -1,4 +1,4 @@
-# Data Exploration: Pandas Library
+# Data Exploration Using Pandas
 
 ## Overview
 The purpose of this Jupyter notebook is to analyze and manipulate data sets with the Python libraries `pandas` and `plotly`. The tasks range from manipulating a simple fruit dataset to extracting insights from a baby names dataset take from online. This notebook also explores an election dataset to identify winning political parties.
